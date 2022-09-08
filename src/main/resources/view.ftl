@@ -32,7 +32,7 @@
             </div>
             <div class="mb-3">
               <label for="frmBody_${instanceId}" class="form-label">Folder</label>
-              <input type="text" class="form-control" id="frmBody_${instanceId}" value=''>
+              <input type="text" class="form-control" id="frmBody_${instanceId}" value='6'>
             </div>
             <button type="button" class="btn btn-primary" id="btnSend" data-execute>Submit</button>
     
